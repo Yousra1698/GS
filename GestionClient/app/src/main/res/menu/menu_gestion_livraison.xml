@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/ajouter_livraison"
+        android:title="Ajouter"
+        android:icon="@drawable/ic_addd"
+        tools:ignore="HardcodedText"/>
+
+</menu>

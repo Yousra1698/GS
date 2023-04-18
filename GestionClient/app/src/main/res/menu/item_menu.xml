@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/clients_home"
+        android:title="Clients"
+        android:icon="@drawable/baseline_groups_24"/>
+
+    <item
+        android:id="@+id/paiments_home"
+        android:title="Paiments"
+        android:icon="@drawable/ic_payment"
+        />
+
+    <item
+        android:id="@+id/livrisons_home"
+        android:title="Livraisons"
+        android:icon="@drawable/ic_livrison"/>
+
+    <item
+        android:id="@+id/history_home"
+        android:title="Historique"
+        android:icon="@drawable/ic_update"/>
+
+</menu>

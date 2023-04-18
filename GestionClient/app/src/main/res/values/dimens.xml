@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_text_view">15sp</dimen>
+    <dimen name="margin_start">20dp</dimen>
+    <dimen name="margin_top">5dp</dimen>
+</resources>
